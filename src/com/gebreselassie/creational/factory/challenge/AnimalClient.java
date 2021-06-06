@@ -11,5 +11,9 @@ public class AnimalClient {
         // get tiger object and what it eats
         Animal tigerAnimal = animalFactory.getAnimalFood("TIGER");
         tigerAnimal.eat();
+
+        // get lion object and what it eats
+        Animal lionAnimal = animalFactory.getAnimalFood("LION");
+        lionAnimal.eat();
     }
 }
