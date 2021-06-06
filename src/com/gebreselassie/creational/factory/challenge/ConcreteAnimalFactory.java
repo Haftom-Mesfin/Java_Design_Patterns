@@ -10,6 +10,9 @@ public class ConcreteAnimalFactory extends AnimalAbstractFactory{
                 return new Duck();
             case "TIGER":
                 return new Tiger();
+            case "LION":
+                return new Lion();
+
             default:
                 new Exception("Animal type " + animalFood + " can't be instantiated");
                 break;
