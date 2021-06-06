@@ -1,4 +1,4 @@
-package com.gebreselassie.creational.abstractfactory.productfamilies.factoroffactories;
+package com.gebreselassie.creational.abstractfactory.productfamilies.factoryoffactories;
 
 import com.gebreselassie.creational.abstractfactory.productfamilies.colorfamily.Color;
 import com.gebreselassie.creational.abstractfactory.productfamilies.shapefamiliy.Circle;
