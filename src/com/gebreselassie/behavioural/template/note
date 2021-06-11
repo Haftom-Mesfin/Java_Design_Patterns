@@ -1,0 +1,9 @@
+Building a house use template design pattern
+
+The steps which we can't change the order of the execution - are
+1. Building foundation
+2. Building the pillars
+3. Building walls
+4. Building windows and doors
+
+But subclasses can override the steps.
