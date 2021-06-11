@@ -1,0 +1,5 @@
+Implementing a shopping cart application using a Strategy Design Pattern.
+
+Essential it is going to have two payment strategies
+1. Pay by credit card or
+2. Pay pal
